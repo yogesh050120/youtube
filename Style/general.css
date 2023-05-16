@@ -1,0 +1,24 @@
+p{
+    font-family: Roboto;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body{
+    margin: 0;
+    padding-top: 70px;
+    padding-left: 96px;
+    padding-right: 24px;
+    background-color: rgb(251, 246, 246);
+    font-family: Roboto;
+}
+@media (max-width: 900px){
+    body{
+        padding-left: 96px;
+    }
+}
+@media (min-width: 900.1px){
+    body{
+        padding-left: 170px;
+    }
+}
